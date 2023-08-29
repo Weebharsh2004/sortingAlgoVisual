@@ -2,7 +2,6 @@
 
 This project implements a custom sorting algorithm using a combination of HTML, CSS, and JavaScript. The purpose of this project is to provide a visual representation of a sorting algorithm in action, helping users understand the sorting process step by step.
 
-![Sorting Algorithm Demo](demo.gif)
 
 ## Features
 
@@ -19,8 +18,8 @@ To use or contribute to this project, follow the instructions below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/sorting-algorithm.git
-   cd sorting-algorithm
+   git clone https://github.com/Weebharsh2004/sortingAlgoVisual.git
+   cd sortingAlgoVisual
    ```
 
 2. **Open the project:**
