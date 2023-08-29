@@ -1,11 +1,70 @@
-# Algorithm-Sorting-Visualizer
+# Custom Sorting Algorithm using HTML, CSS, and JavaScript
 
-# View The Project Here - https://xenodochial-darwin-bd74c7.netlify.app/
-# Youtube Link- https://youtu.be/MA3QNmdhHG4
+This project implements a custom sorting algorithm using a combination of HTML, CSS, and JavaScript. The purpose of this project is to provide a visual representation of a sorting algorithm in action, helping users understand the sorting process step by step.
+
+![Sorting Algorithm Demo](demo.gif)
+
+## Features
+
+- Visual representation of the sorting process.
+- Supports various sorting algorithms.
+- Adjustable array size for sorting.
+- Step-by-step visualization with animation.
+- User-friendly interface.
+
+## Getting Started
+
+To use or contribute to this project, follow the instructions below:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/sorting-algorithm.git
+   cd sorting-algorithm
+   ```
+
+2. **Open the project:**
+
+   Open the `index.html` file in your preferred web browser.
+
+3. **Choose a sorting algorithm:**
+
+   Select a sorting algorithm from the dropdown menu (e.g., Bubble Sort, Insertion Sort, Selection Sort).
+
+4. **Adjust array size:**
+
+   Use the slider to adjust the size of the array to be sorted.
+
+5. **Initiate sorting:**
+
+   Click the "Sort" button to start the sorting process. Observe the animation and step-by-step visualization.
+
+## Supported Sorting Algorithms
+
+This project currently supports the following sorting algorithms:
+
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- (You can extend this list by contributing to the project)
+
+## Project Structure
+
+- `index.html`: The main HTML file containing the user interface elements.
+- `style.css`: The CSS file that styles the user interface.
+- `script.js`: The JavaScript file that implements the sorting algorithm and visualization logic.
+
+## Contribution Guidelines
+
+If you would like to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Make your changes and test thoroughly.
+4. Commit your changes and push them to your fork.
+5. Create a pull request to the main repository's `main` branch.
+
+Please ensure that your code follows the project's coding standards and conventions.
 
 
-Project Context :
-We have learnt sorting algorithms like bubble sort, selection sort, insertion sort, quick sort. But often we fail to understand the core idea of a particular algorithm maybe because we are unable to visualize how they work. So the most important thing to understand about these algorithms is visualization.
-Made this project to let everyone understand how these algorithms work and through this project you also will get a deep understanding of such sorting algorithms.
-
-Our project visualizes four most commonly used sorting algorithms: bubble sort, selection sort, insertion sort, quick sort. User could run the program on a local machine and see how each algorithm works in action, and how elements are swapped in the array to get to the sorted array in the end. Our program also measures and displays the actual run-time of each sorting algorithm on the screen.   
+Feel free to contact us at [geekharsh2004@gmail.com](mailto:geekharsh2004@gmail.com) with any questions or feedback!
